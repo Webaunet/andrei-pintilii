@@ -18,7 +18,7 @@ MAP = {
     "andrei-abri-jardin": (REEL, "gm4.jpg", 1000, 78),
     "andrei-souche": (REEL, "gm5.jpg", 1000, 78),
     "andrei-cloture-bois": (REEL, "gm6.jpg", 1000, 78),
-    "andrei-souche-2": (REEL, "gm7.jpg", 800, 78),
+    "andrei-souche-2": (REEL, "gm7.jpg", 640, 74),
     # images génériques du métier
     "creation-massifs": (GEN, "4-creation-espace-vert.jpg", 900, 78),
     "entretien-pelouse": (GEN, "2-tonte.jpg", 900, 78),
